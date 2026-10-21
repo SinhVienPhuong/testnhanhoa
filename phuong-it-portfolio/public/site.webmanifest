@@ -1,0 +1,9 @@
+{
+  "name": "Bùi Hữu Phương — IT Tools",
+  "short_name": "BHP Tools",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E9EDF1",
+  "theme_color": "#1C232C",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
